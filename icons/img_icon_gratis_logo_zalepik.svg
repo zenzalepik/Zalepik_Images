@@ -13,11 +13,11 @@
 <path fill-rule="evenodd" clip-rule="evenodd" d="M120 182C154.219 182 182 154.219 182 120C182 85.7813 154.219 58 120 58C85.7812 58 58 85.7813 58 120C58 154.219 85.7812 182 120 182Z" fill="url(#paint3_radial_1146_690)"/>
 </g>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M92.5419 92.542H142.737L92.5419 142.737L92.5396 131.25H92.5436L120.815 102.975H102.987L92.5419 92.542Z" fill="white"/>
-<g style="mix-blend-mode:overlay" opacity="0.64">
-<path d="M87.2772 194.064L66.5093 174.193L184.928 55.7744L206.111 75.2302L87.2772 194.064Z" fill="#FBF432"/>
-</g>
 <path d="M134.47 146.871H111.542V129.159L123.794 116.908V134.471H146.87L134.47 146.871Z" fill="white"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M123.794 134.471V116.908L190.095 50.6074L123.794 134.471Z" fill="#FFBA00"/>
+<g style="mix-blend-mode:overlay" opacity="0.64">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M123.794 116.909V134.471L185.554 56.3506L206.111 75.2306L87.2772 194.064L66.5093 174.193L123.794 116.909Z" fill="#FBF432"/>
+</g>
 </g>
 <defs>
 <linearGradient id="paint0_linear_1146_690" x1="182" y1="120" x2="58" y2="120" gradientUnits="userSpaceOnUse">
